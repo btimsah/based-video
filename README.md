@@ -1,4 +1,4 @@
-View live demo at - https://github.com/btimsah/based-video
+View live demo at - [https://github.com/btimsah/based-video](https://crypto-plugins.com/based-video-paywall-for-wordpress/)
 Just upload and activate in WordPress.
 Within the post editor you can now easily embed a paywalled video with a set free preview timer.
 You can optionally allow buyers to download the video file as well.
