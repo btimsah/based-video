@@ -1,5 +1,5 @@
 Just upload and activate in WordPress.
-Within the post editor you can now easily embed a paywalled video.
+Within the post editor you can now easily embed a paywalled video with a set free preview timer.
 You can optionally allow buyers to download the video file as well.
 Buyers are presented an in-browser success message and video continues to play upon successful on-chain confirmation of their payment.
 Buyers can log back into each video, along with the order lookup shortcode.
