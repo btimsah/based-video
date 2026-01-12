@@ -8,3 +8,5 @@ Order attempts (success or fail) are preserved on the backend and admin is email
 Admin can manually approve an order.
 STORJ works great for the video because they're far faster than most web-hosts, affordable, decentralized and provide direct video url access.
 USDC on base is a great token and network for paywall video because of it's speed, stable/clear pricing.
+Is now setup for Moralis API for blockchain payment verification. 
+The plugin uses very robust micro-decimal system to ensure tranactions are unique.
